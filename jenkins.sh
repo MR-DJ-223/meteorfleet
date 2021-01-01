@@ -1,3 +1,6 @@
 #!/bin/bash
 
-free -m 
+free -m
+df -h /
+echo "****************** your job 3 build done******************"
+
