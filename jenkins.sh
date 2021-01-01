@@ -1,3 +1,3 @@
 #!/bin/bash
 
-free-m
+free -m 
