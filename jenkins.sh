@@ -1,6 +1,5 @@
 #!/bin/bash
 
-free -m
-df -h /
+touch file{1..5}
 echo "****************** your job 3 build done******************"
 
